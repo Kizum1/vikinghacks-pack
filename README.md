@@ -1,27 +1,4 @@
 
-# Viking Hacks HackPacks
-
-HackPacks are open source resources built by developers and contributors to help hackers build great projects at our hackathon that happens every April 28–29 at Diablo Valley College. The Viking Hacks Team has compiled a list of available hack packs for hackers to use. Feel free to use these at your own hackathons, workshops, and anything else that promotes building
-
-Head to the Viking Hacks [website](https://dvcdevelopers.com/) to keep up to date.
-
-
-## Acknowledgements
-
- - [TreeHacks HackPacks](https://www.treehacks.com/)
- - [Public API](https://github.com/public-api-lists/public-api-lists)
- - [HackRegina](https://github.com/HackRegina/hackathon-starter-kit/blob/master/README.md)
-
-
-## Contributing
-
-Contributions are always welcome!
-
-Please send a message to Kizumi#0715 via Discord if you would like to add a HackPack.
-
-
-
-
 # Resources to use at Viking Hacks
 
 ## Tools:
@@ -41,9 +18,15 @@ Voice enable any app or service with Amazon Alexa
 ## Free API's
 [Public API List](https://github.com/public-api-lists/public-api-lists)
 
+Public list of free API's with a variety of categories
+
 [Green API](https://nordicapis.com/green-apis-promote-sustainability-and-climate-action/)
 
+API built with the intent of advancing sustainability, environmental awareness, or specific climate action initiatives 
+
 [Google Earth Engine API](https://cloud.google.com/earth-engine#all-features)
+
+Google Earth Engine's public data catalog provides more than 40 years of historical imagery and scientific datasets
 
 ## Design
 
