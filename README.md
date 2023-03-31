@@ -61,6 +61,10 @@ This site is dedicated to compiling and sharing useful resources for Designers a
 
 Same as Pattern Tap but for mobile design patterns. (iOS and Android)
 
+[Loitte](https://airbnb.design/lottie/)
+
+Easily add high-quality animation to any native app.
+
 [Stock Photos That Don't Suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
 
 Finding great stock photos is a pain. You're left with either low-res amateur photos, people wearing cheesy headsets, or photos that are out of budget for the project you're working on. This is an ongoing list of the best stock photo sites that @dustin put together.
