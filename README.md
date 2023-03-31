@@ -133,14 +133,6 @@ High-quality and varied icon fonts and icon packs.
 
 The world’s most popular and easiest to use icon set just got an upgrade. More icons. More styles. More options.
 
-[FamFamFam](http://www.famfamfam.com/lab/icons/)
-
-Cool small icons that are easy to recognize.
-
-[Font Awesome](https://fontawesome.com/)
-
-Font and icon toolkit based on CSS and Less
-
 ## Starters
 
 [Hackathon Starter](https://github.com/sahat/hackathon-starter)
