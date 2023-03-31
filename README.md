@@ -69,10 +69,6 @@ Finding great stock photos is a pain. You're left with either low-res amateur ph
 
 A great place to find beautiful combinations and usages of Google Fonts and color schemes.
 
-[User Inter Faces](http://uifaces.com/)
-
-A database of profile pictures for mockups and demoes (many can be used on live websites as well)!
-
 [Graphic Burger](http://graphicburger.com/)
 
 An array of design resources such as: Mock-ups, UI Kits, Icons, Backgrounds, etc.
